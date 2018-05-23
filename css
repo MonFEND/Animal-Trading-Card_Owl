@@ -1,0 +1,14 @@
+/* add your CSS here */
+#wrapper { border: 1px solid, lightgray}
+.site-title {font-weight: bold;}
+.interesting-facts {font-style: italic;}
+/* Margin shorthand as follows: margin-top, margin-right, margin-bottom, margin-left */
+div.card-size{ margin: 25px 200px 25px 200px;
+  border: solid green; padding: 15px; box-shadow: 10px 10px #334d00; width: 305px; height: 100%; background-color:#739900}
+/* note: for shorthand border: width, style, color */
+div.content{border:solid green; padding: 10px; width: 280px; height: 100%;}
+div.body-margin{margin: 1px 1px 1px 1px;}
+img {width: 300px
+  ; height: auto; padding:0; border: solid green;margin: 20px 0px 20px 0px;}
+/* note: to left align items (i.e.li) in ul, use padding attribute with zero value */
+ul {list-style-type: none; padding: 0;}
